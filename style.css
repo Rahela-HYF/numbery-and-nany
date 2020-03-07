@@ -1,0 +1,17 @@
+.centered{
+    position: fixed;
+    top:30%;
+    left: 50%;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    
+  }
+#reset-entries{
+    text-align: center;
+}
+th {
+  padding-left: 50px;
+}
