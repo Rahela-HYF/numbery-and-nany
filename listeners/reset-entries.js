@@ -1,0 +1,1 @@
+document.getElementById('reset-entries').addEventListener('click', resetHandler);
