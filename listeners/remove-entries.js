@@ -1,0 +1,1 @@
+document.getElementById('remove-entries').addEventListener('click', removeHandler);

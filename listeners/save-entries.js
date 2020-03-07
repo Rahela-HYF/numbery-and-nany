@@ -1,0 +1,1 @@
+document.getElementById('save-entries').addEventListener('click', saveHandler);
